@@ -90,6 +90,9 @@ const Product = () => {
                   <p>
                     Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit suscipit minus adipisci iure sed explicabo enim est fuga quasi consectetur ea laudantium, incidunt amet, laboriosam dolore saepe tempora, nostrum nihil.
                   </p>
+                  <p>
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidunt illo et rerum omnis eaque nobis consectetur blanditiis architecto nemo ex ullam tempore, dignissimos est corporis soluta iusto velit nulla vel.
+                  </p>
                 </div>
               </div>
 
