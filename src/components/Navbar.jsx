@@ -28,7 +28,7 @@ const Navbar = () => {
         <p>ABOUT</p>
         <hr className='w-2/4 border-none h-[1.5px] bg-gray-700 hidden'/>
         </NavLink>
-        <NavLink to='/contac t' className='flex flex-col items-center gap-1'>
+        <NavLink to='/Contact' className='flex flex-col items-center gap-1'>
         <p>CONTACT</p>
         <hr className='w-2/4 border-none h-[1.5px] bg-gray-700 hidden'/>
         </NavLink>
